@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+data/*
+!data/README.md
+raster/*
+!raster/README.md
+outputs/
+modelo/
+mapa/
+.DS_Store
+Thumbs.db
