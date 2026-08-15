@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "Se você utilizar este material, cite o artigo associado."
+title: "Mapeamento Digital dos Teores de Fe2O3, MnO, Nb e TiO2 em Morro dos Seis Lagos – AM, Brasil"
+type: software
+authors:
+  - family-names: Rodrigues
+    given-names: Niriele Bruno
+    orcid: "https://orcid.org/0000-0001-9424-760X"
+  - family-names: Silva
+    given-names: Júlio Cesar Lopes da
+    orcid: "https://orcid.org/0000-0001-6230-0058"
+  - family-names: Silva
+    given-names: Renan Pereira Marinatti da
+    orcid: "https://orcid.org/0009-0006-8015-9071"
+  - family-names: Pinheiro
+    given-names: Helena Saraiva Koenow
+    orcid: "https://orcid.org/0000-0001-5742-7556"
+  - family-names: Carvalho Júnior
+    given-names: Waldir de
+    orcid: "https://orcid.org/0000-0002-8619-0989"
+doi: 10.36403/espacoaberto.2024.60234
+url: "https://revistas.ufrj.br/index.php/EspacoAberto/article/view/60234"
+date-released: 2024-05-15
+preferred-citation:
+  type: article
+  title: "Mapeamento Digital dos Teores de Fe2O3, MnO, Nb e TiO2 em Morro dos Seis Lagos – AM, Brasil"
+  journal: Espaço Aberto
+  year: 2024
+  volume: 14
+  issue: 1
+  start: 157
+  end: 174
+  doi: 10.36403/espacoaberto.2024.60234
+  authors:
+    - family-names: Rodrigues
+      given-names: Niriele Bruno
+    - family-names: Silva
+      given-names: Júlio Cesar Lopes da
+    - family-names: Silva
+      given-names: Renan Pereira Marinatti da
+    - family-names: Pinheiro
+      given-names: Helena Saraiva Koenow
+    - family-names: Carvalho Júnior
+      given-names: Waldir de
